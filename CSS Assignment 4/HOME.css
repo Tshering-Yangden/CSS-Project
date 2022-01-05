@@ -1,0 +1,60 @@
+
+body{
+    background-image: linear-gradient(90deg,rgba(147,0,0,0.0),rgba(1,0,0,0.0)), url('1.jpg');
+}
+#div1{
+    position: fixed;
+}
+
+nav{
+    text-decoration: none;
+     border: black;
+    color:2px solid red ;
+    background-color:rgb(204, 208, 209);
+    width:1250px;
+    margin:-20px;
+    height:100px;
+    padding: 10PX;
+    position: fixed;
+}
+a{ text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+#i{
+    width: 1250px;
+    height: 400px;
+}
+#div3{
+   margin-right: 30px;
+}
+#div4{border:2px black solid;
+    height: 300px ;
+    width:600px ;
+    float: right;
+    margin-top: -200px;
+}
+#img{
+    height:300px;
+    width:600px;
+}
+#div5{
+    height: 100px ;
+}
+#qq{
+    color: rgb(10, 9, 8);
+}
+.img1{
+    height:100px;
+     width:100px;
+}
+h3{
+    font-weight: bold;
+}
+#map{
+    width:1250px;
+     height:550px;
+     border:0;
+      
+}

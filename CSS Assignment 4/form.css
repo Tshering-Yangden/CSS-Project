@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(90deg,rgba(230,230,250,0.1),rgba(216,191,216,0.1));
+}
+#div1{
+    position: fixed;
+    text-align: center;
+}
+
+nav{
+    text-decoration: none;
+     border: black;
+    color:2px solid red ;
+    background-color:rgb(204, 208, 209);
+    width:1250px;
+    margin:-20px;
+    height:100px;
+    padding: 10PX;
+    position: fixed;
+}
+a{ text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+h1{
+    text-align: center; 
+    color:darkgreen;
+}
+hr{
+    height:3px ;
+     background-color:black;
+}
+.class{
+    font-weight: 700 ;
+}
+.class1{
+    height: 30px ; 
+    width:300px ;
+    border-radius: 5px;
+
+}
+.text{
+    height: 80px;
+    width: 400px;
+    
+}
+sup{
+    color: red;
+}
+.strong{
+    font-weight: 900;
+}
+.strong1{
+    font-weight: bold;
+
+}

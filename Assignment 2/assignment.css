@@ -1,0 +1,41 @@
+body{
+    background-image:linear-gradient(90deg,rgba(62, 69, 9, 0.4),rgba(37, 37, 174, 0.3)),url('');
+    text-align: center;
+    color:rgb(28, 113, 28);
+}
+
+hr{
+    height:5px;
+    background-color:rgb(15, 71, 53);
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+p{
+    text-align: justify;
+    font-weight:700;
+    text-indent:20px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: extra-expanded;
+    font-size:x-large;
+    border:solid rgb(220, 195, 9) 5px;
+
+    width:100%;
+    background-color: rgb(114, 132, 137);
+    border-radius:30px 10px 5PX 20PX;
+}
+
+
+h2{
+    text-decoration: green;
+    text-align: center;
+}
+
+img{
+    width:600px;
+    height:500px
+}

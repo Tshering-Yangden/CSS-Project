@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(90deg,rgba(00,00,00,0.2),rgba(00,0,00,0.4));
+}
+nav{
+    text-decoration: none;
+     border: black;
+    color:2px solid red ;
+    background-color: blanchedalmond;
+    width:1250px;
+    margin:-10px;
+    height:100px;
+    padding: 10PX;
+    position: fixed;
+}
+a{ text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+#a,#b,#c,#d,#e,#f{
+    height: 500px;
+    width: 610px;
+}
+h2{
+    text-align: center;
+}
+.contact{
+    text-align: right;
+

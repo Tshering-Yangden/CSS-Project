@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(121, 133, 129);
+}
+#div1{
+    position: fixed;
+    text-align: center;
+}
+
+nav{
+    text-decoration: none;
+     border: black;
+    color:2px solid red ;
+    background-color:rgb(204, 208, 209);
+    width:1280px;
+    margin:-20px;
+    height:100px;
+    padding: 10PX;
+    position: fixed;
+}
+a{ 
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+iframe{
+
+    height: 400px;
+    width: 100%;
+
+}
+#div2{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    text-align: center;
+
+}
+
